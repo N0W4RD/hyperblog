@@ -1,7 +1,7 @@
 body
 
 {
-    color: brown;
+    color: rgb(0, 0, 0);
     text-align: left;
     font-family: "Arial";
     font-size: 16px;
@@ -11,7 +11,7 @@ body
 
 #cabecera
 {
-    background: #33A;
+    background: rgb(224, 28, 28);
     box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.75);
     color: #DDD;
     font-weight: bold;
